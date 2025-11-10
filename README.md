@@ -1,5 +1,5 @@
 # Data Analyst Portfolio
-Hi, I’m Yogas — a UX-minded Data Analyst passionate about turning raw data into clear stories that inform better design and business decisions.
+Hi, I’m Yogas — a UX-minded Data Analyst passionate about turning raw data into clear stories to uncover patterns that explain user behavior and improve decision-making.
 
 My background in UX design gives me a unique perspective in understanding human behavior through data. I’m focused on building insights that are not only statistically sound, but also meaningful and actionable for real users.
 

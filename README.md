@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+### 🧪 Data Analyst Portfolio
 Hi, I’m Yogas — a UX-minded Data Analyst passionate about turning raw data into clear stories to uncover patterns that explain user behavior and improve decision-making.
 
 My background in UX design gives me a unique perspective in understanding human behavior through data. I’m focused on building insights that are not only statistically sound, but also meaningful and actionable for real users.
@@ -6,9 +6,10 @@ My background in UX design gives me a unique perspective in understanding human 
 This portfolio showcases projects that combine **data analysis**, and **storytelling** using tools such as **Excel**, **Python**, **SQL**, and **Looker Studio**
 
 ### 📂 Projects
-| Project | Description | Tools |
-|----------|--------------|--------|
-| [Excel – Consumer Trends in Miami & PayPal Dominance](./excel_consumer_trends_miami_paypal) | Analyzed consumer behavior patterns to understand payment trends. | Excel |
+| Project | TL;DR | Description | Tools | Output |
+|---------|-------|------------|-------|--------|
+| [Excel – Consumer Trends in Miami & PayPal Dominance](./excel_consumer_trends_miami_paypal) | Miami leads in consumer payments; PayPal dominates | Analyzed consumer behavior patterns to understand payment trends | Excel | [View Report](./excel_consumer_trends_miami_paypal/reports/report.pdf) |
+
 
 ---
 👤 **Author:** Rama Yogaswara  

@@ -6,9 +6,9 @@ My background in UX design gives me a unique perspective in understanding human 
 This portfolio showcases projects that combine **data analysis**, and **storytelling** using tools such as **Excel**, **Python**, **SQL**, and **Looker Studio**
 
 ### 📂 Projects
-| Project | TL;DR | Description | Tools | Snapshot |
-|---------|-------|------------|-------|--------|
-| [Excel – Amazon 2025 Consumer Trends in Miami & PayPal Dominance](./excel_consumer_trends_miami_paypal) | Miami leads in consumer payments; PayPal dominates | Analyzed consumer behavior patterns to understand payment trends | Excel | [View Snapshot](./excel_consumer_trends_miami_paypal/reports/snapshot_consumer_trends.pdf) |
+| Project | TL;DR | Description | Data Source | Tools | Snapshot |
+|---------|-------|-------------|-------------|--------|-----------|
+| **Excel – Amazon 2025 Consumer Trends in Miami & PayPal Dominance** | Miami leads in consumer payments; PayPal dominates | Analyzed consumer behavior patterns to understand payment trends | **Kaggle — Amazon Sales 2025 (by Zahid Mughal)**<br>[View Dataset](https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025) | Excel | [View Snapshot](./excel_consumer_trends_miami_paypal/reports/snapshot_consumer_trends.pdf) |
 
 
 ---

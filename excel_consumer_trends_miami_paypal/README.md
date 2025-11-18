@@ -5,7 +5,7 @@
 Retail teams need to understand which cities contribute the most to sales and which payment channels customers prefer to optimize marketing spend, product allocation, and checkout experience.
 
 ## Data
-- Source: Kaggle — Amazon Sales 2025 (by Zahid Mughal)
+- Source: [Kaggle — Amazon Sales 2025 (by Zahid Mughal)](https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025)
 
 ## Business Understanding
 1. Which city has the biggest contribution on sales?
